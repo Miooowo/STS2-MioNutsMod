@@ -1,0 +1,4 @@
+{
+  "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.title": "贷款",
+  "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.description": "不能被打出。 NL 固有。 NL 当抽到该牌时，获得 [gold]50[] 金币。 NL 在你的回合结束时，如果这张牌在你的手牌中，你失去 [gold]20[] 金币。"
+}

@@ -1,0 +1,10 @@
+{
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.title": "别样的商人",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.description": "离开商店后，你在错综复杂的道路上兜兜转转，竟又撞见一家从未见过的铺子。柜台后的商人身穿燕尾服，头戴高礼帽，笑得十分得体。 NL NL “呀，刚从商店出来，是不是没钱了？我倒是可以帮帮你。”",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.SELL.title": "售卖",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.SELL.description": "删除 [#f5d252]2[] 张非初始牌，获得 [gold]100[] 金币。",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.LOAN.title": "贷款",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.LOAN.description": "失去所有金币，获得一张 [#a9a9a9]贷款[] 诅咒。",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.SELL_DONE.description": "商人利落地将两张牌收进账本，随后推来一袋金币。 NL NL “公平交易，童叟无欺。”",
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.LOAN_DONE.description": "商人将你钱袋中的金币一扫而空，又递来一纸契约。 NL NL “签了吧，欠债总比没路可走强。”"
+}
