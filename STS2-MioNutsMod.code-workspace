@@ -1,10 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "../../ModTemplate-StS2"
+			"path": "."
 		},
 		{
-			"path": ".."
+			"path": "../STS2-RitsuLib"
 		},
 		{
 			"path": "C:/Users/OEM/Desktop/Slay the Spire 2"

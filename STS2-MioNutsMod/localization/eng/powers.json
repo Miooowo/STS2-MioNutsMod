@@ -1,3 +1,14 @@
 {
-  
+  "FORECASTED_MOVES_POWER.title": "Forecasted Moves",
+  "FORECASTED_MOVES_POWER.description": "This unit's upcoming intent has been foretold.",
+  "OMNISCIENCE_DOUBLE_POWER.title": "Omniscience Double",
+  "OMNISCIENCE_DOUBLE_POWER.description": "This effect causes the related Omniscience resolution to occur one additional time.",
+  "STS2_MIO_NUTS_MOD_POWER_MOONLIT_TRANSFER_DEBUFF_POWER.title": "Moonlit Transfer",
+  "STS2_MIO_NUTS_MOD_POWER_MOONLIT_TRANSFER_DEBUFF_POWER.description": "At end of turn, transfer one of your debuffs to all enemies.",
+  "STS2_MIO_NUTS_MOD_POWER_NONEXISTENCE_AURA_POWER.title": "Nonexistence Aura",
+  "STS2_MIO_NUTS_MOD_POWER_NONEXISTENCE_AURA_POWER.description": "Whenever you play a Power card, gain [blue]8[] Block; future powers applied to you are doubled; your Power cards cost [blue]1[] less (minimum 0).",
+  "STS2_MIO_NUTS_MOD_POWER_ORB_FOR_ALL_POWER.title": "Orb For All",
+  "STS2_MIO_NUTS_MOD_POWER_ORB_FOR_ALL_POWER.description": "Whenever you channel an orb, each other player channels the same orb type.",
+  "STS2_MIO_NUTS_MOD_POWER_TEACH_AND_LEARN_POWER.title": "Teach And Learn",
+  "STS2_MIO_NUTS_MOD_POWER_TEACH_AND_LEARN_POWER.description": "Whenever you play a Power card and gain a power from it, each other player gains the same power."
 }

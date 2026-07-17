@@ -6,5 +6,21 @@
   "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.LOAN.title": "贷款",
   "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.INITIAL.options.LOAN.description": "失去所有金币，获得一张[color=gray]贷款[/color]。",
   "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.SELL_DONE.description": "商人利落地将两张牌收进账本，随后推来一袋金币。\n\n“公平交易，童叟无欺。”",
-  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.LOAN_DONE.description": "商人将你钱袋中的金币一扫而空，又递来一纸契约。\n\n“签了吧，欠债总比没路可走强。”"
+  "STS2_MIO_NUTS_MOD_EVENT_ODD_MERCHANT_EVENT.pages.LOAN_DONE.description": "商人将你钱袋中的金币一扫而空，又递来一纸契约。\n\n“签了吧，欠债总比没路可走强。”",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.title": "钢铁和巨兽",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.description": "你在塔内发现了两个虚幻的影子，其中一个如巨兽般庞大，其中一个如同你身形一致。你能在那两个影子消失前对它们表达你的意图。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.BEAST.title": "向巨兽的影子伸出手",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.BEAST.description": "移除[blue]2[/blue]张牌组中的牌，失去[red]8[/red]点最大生命，将一张[purple]月夜的目光[/purple]置入你的卡组。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.HUMAN.title": "向人形的影子伸出手",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.HUMAN.description": "失去你所有的金币，将一张[purple]不存在[/purple]置入你的卡组。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK.title": "嘲讽它们",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK.description": "将一张[red]凡庸[/red]加入你的[blue]牌组[/blue]。获得3件随机[gold]遗物[/gold]。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK_CONTINUE.title": "继续",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK_CONTINUE.description": "与两名第二阶段BOSS战斗。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK_WAITING.title": "等待其他玩家",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.INITIAL.options.MOCK_WAITING.description": "其他玩家尚未选择该选项。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.MOCK_DONE.description": "你将嘲讽化作代价，换来了新的枷锁与宝物。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.BEAST_DONE.description": "有意思，我会一直看着你的。",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.HUMAN_DONE.description": "......0xc0000005 EXCEPTION ACCESS VIOLATIO",
+  "STS2_MIO_NUTS_MOD_EVENT_IRON_AND_BEAST_EVENT.pages.MOCK_FALLBACK.description": "影子发出无声的嗤笑，随后一并消散了。"
 }

@@ -16,6 +16,9 @@ public sealed class OddMerchantEvent : ModEventTemplate
 
     public override bool IsAllowed(IRunState runState)
     {
+        if (runState?.MapPointHistory is null)
+            return false;
+
         return runState.MapPointHistory.Any(actHistory =>
             actHistory.Any(entry => entry.Rooms.Any(room => room.RoomType == RoomType.Shop)));
     }

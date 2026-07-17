@@ -1,4 +1,27 @@
 {
   "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.title": "贷款",
-  "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.description": "当抽到此牌时，获得[gold]50[/gold]金币。\n在你的回合结束时，如果这张牌在你的手牌中，你失去[gold]20[/gold]金币。"
+  "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.description": "当抽到此牌时，获得[gold]50[/gold]金币。\n在你的回合结束时，如果这张牌在你的手牌中，你失去[gold]20[/gold]金币。",
+  "STS2_MIO_NUTS_MOD_CARD_MOONLIT_GAZE_CARD.title": "月夜的目光",
+  "STS2_MIO_NUTS_MOD_CARD_MOONLIT_GAZE_CARD.description": "在你的回合结束时，将你的一种负面效果转移给敌方全体。",
+  "STS2_MIO_NUTS_MOD_CARD_NONEXISTENCE_CARD.title": "不存在",
+  "STS2_MIO_NUTS_MOD_CARD_NONEXISTENCE_CARD.description": "你的能力牌费用降低[blue]1[/blue]。\n你打出能力牌时获得[blue]8[/blue]点格挡。\n你获得的正面效果翻倍。",
+  "STS2_MIO_NUTS_MOD_CARD_DEATH_HARVEST_CARD.title": "死亡收割",
+  "STS2_MIO_NUTS_MOD_CARD_DEATH_HARVEST_CARD.description": "对所有敌人造成{Damage:diff()}点伤害。\n回复等同于未被格挡伤害总和的生命。",
+  "STS2_MIO_NUTS_MOD_CARD_DIE_DIE_DIE_CARD.title": "死吧死吧死吧",
+  "STS2_MIO_NUTS_MOD_CARD_DIE_DIE_DIE_CARD.description": "对所有敌人造成{Damage:diff()}点伤害。",
+  "STS2_MIO_NUTS_MOD_CARD_DRINK_BLOOD_WITH_ME_CARD.title": "与我饮血",
+  "STS2_MIO_NUTS_MOD_CARD_DRINK_BLOOD_WITH_ME_CARD.description": "将1张[gold]死亡收割[/gold]加入所有玩家的[gold]手牌[/gold]。",
+  "STS2_MIO_NUTS_MOD_CARD_FULL_ASSAULT_CARD.title": "全力攻杀",
+  "STS2_MIO_NUTS_MOD_CARD_FULL_ASSAULT_CARD.description": "将1张[gold]{IfUpgraded:show:死吧死吧死吧+|死吧死吧死吧}[/gold]加入所有玩家的[gold]手牌[/gold]。",
+  "STS2_MIO_NUTS_MOD_CARD_ORB_FOR_ALL_CARD.title": "运球时间",
+  "STS2_MIO_NUTS_MOD_CARD_ORB_FOR_ALL_CARD.description": "当你[gold]生成[/gold]一个充能球时，其他玩家也会[gold]生成[/gold]同样的充能球。",
+  "STS2_MIO_NUTS_MOD_CARD_NO_TURNING_CARD.title": "你不许转",
+  "STS2_MIO_NUTS_MOD_CARD_NO_TURNING_CARD.description": "结束一名玩家的回合。\n该玩家每有1张[gold]手牌[/gold]，获得3点[gold]格挡[/gold]。\n你在下回合开始时获得等同于其剩余手牌数量的能量。",
+  "STS2_MIO_NUTS_MOD_CARD_ALL_HANDS_CRASH_CARD.title": "全员坠机",
+  "STS2_MIO_NUTS_MOD_CARD_ALL_HANDS_CRASH_CARD.description": "对所有敌人造成{CalculatedDamage:diff()}点伤害。\n每有一名其他玩家，伤害增加{ExtraDamage:diff()}点。\n用[gold]碎屑[/gold]填满所有玩家的[gold]手牌[/gold]。",
+  "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.title": "盗墓团伙",
+  "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.description": "所有玩家选择一张[gold]已消耗[/gold]的牌，将其放入[gold]手牌[/gold]。",
+  "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.selectionPrompt": "选择1张已消耗的牌",
+  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.title": "传道受业",
+  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.description": "当你打出[gold]能力牌[/gold]时，其他玩家获得同样的能力。"
 }

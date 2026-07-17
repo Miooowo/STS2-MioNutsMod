@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File .cursor/hooks/track-changes.ps1",
+        "failClosed": true
+      }
+    ],
+    "stop": [
+      {
+        "command": "powershell -NoProfile -ExecutionPolicy Bypass -File .cursor/hooks/enforce-session-workflow.ps1",
+        "timeout": 600,
+        "failClosed": true
+      }
+    ]
+  }
+}

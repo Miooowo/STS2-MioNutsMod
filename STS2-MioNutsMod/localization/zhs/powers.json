@@ -1,3 +1,14 @@
 {
-  
+  "FORECASTED_MOVES_POWER.title": "预示行动",
+  "FORECASTED_MOVES_POWER.description": "该单位的下一步行动已被预示。",
+  "OMNISCIENCE_DOUBLE_POWER.title": "全知倍增",
+  "OMNISCIENCE_DOUBLE_POWER.description": "该效果会使相关全知结算发生额外一次。",
+  "STS2_MIO_NUTS_MOD_POWER_MOONLIT_TRANSFER_DEBUFF_POWER.title": "月夜转移",
+  "STS2_MIO_NUTS_MOD_POWER_MOONLIT_TRANSFER_DEBUFF_POWER.description": "在你的回合结束时，将你的一种负面效果转移给敌方全体。",
+  "STS2_MIO_NUTS_MOD_POWER_NONEXISTENCE_AURA_POWER.title": "不存在光环",
+  "STS2_MIO_NUTS_MOD_POWER_NONEXISTENCE_AURA_POWER.description": "你打出能力牌时获得 [blue]8[/blue] 点格挡；你后续获得到自身的能力效果翻倍；你的能力牌费用降低 [blue]1[/blue]（最低为 0）。",
+  "STS2_MIO_NUTS_MOD_POWER_ORB_FOR_ALL_POWER.title": "同调充能",
+  "STS2_MIO_NUTS_MOD_POWER_ORB_FOR_ALL_POWER.description": "当你[gold]生成[/gold]一个充能球时，其他玩家也会[gold]生成[/gold]同样的充能球。",
+  "STS2_MIO_NUTS_MOD_POWER_TEACH_AND_LEARN_POWER.title": "传道受业",
+  "STS2_MIO_NUTS_MOD_POWER_TEACH_AND_LEARN_POWER.description": "当你打出[gold]能力牌[/gold]并获得能力时，其他玩家也获得同样的能力。"
 }
