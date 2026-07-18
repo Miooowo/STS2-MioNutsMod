@@ -6,13 +6,14 @@ using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Rooms;
 using MegaCrit.Sts2.Core.Runs;
 using STS2RitsuLib.Scaffolding.Content;
+using STS2_MioNutsMod.STS2_MioNutsModCode.Extensions;
 using STS2_MioNutsMod.STS2_MioNutsModCode.Cards;
 
 namespace STS2_MioNutsMod.STS2_MioNutsModCode.Events;
 
 public sealed class OddMerchantEvent : ModEventTemplate
 {
-    public override string CustomInitialPortraitPath => "res://STS2-MioNutsMod/mod_image.png";
+    public override string? CustomInitialPortraitPath => "odd_merchant_event.png".EventImagePath();
 
     public override bool IsAllowed(IRunState runState)
     {
