@@ -23,5 +23,7 @@
   "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.description": "所有玩家选择一张[gold]已消耗[/gold]的牌，将其放入[gold]手牌[/gold]。",
   "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.selectionPrompt": "选择1张已消耗的牌",
   "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.title": "传道受业",
-  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.description": "当你打出[gold]能力牌[/gold]时，其他玩家获得同样的能力。"
+  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.description": "当你打出[gold]能力牌[/gold]时，其他玩家获得同样的能力。",
+  "STS2_MIO_NUTS_MOD_CARD_CURSED_BLADE_PLUS_CARD.title": "诅咒之刃+",
+  "STS2_MIO_NUTS_MOD_CARD_CURSED_BLADE_PLUS_CARD.description": "造成{CalculatedDamage:diff()}点伤害。\n除此牌外，牌组中每有一张[gold]诅咒[/gold]，伤害增加{ExtraDamage:diff()}点。\n战斗中第一次打出时，击晕目标。"
 }

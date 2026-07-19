@@ -15,7 +15,7 @@ namespace STS2_MioNutsMod.STS2_MioNutsModCode.Cards;
 public sealed class AllHandsCrashCard : STS2_MioNutsModCard
 {
     public override CardMultiplayerConstraint MultiplayerConstraint => CardMultiplayerConstraint.MultiplayerOnly;
-    public override IEnumerable<CardKeyword> CanonicalKeywords => [CardKeyword.Exhaust];
+    // public override IEnumerable<CardKeyword> CanonicalKeywords => [CardKeyword.Exhaust];
     protected override IEnumerable<DynamicVar> CanonicalVars => [
         new CalculationBaseVar(21m),
         new ExtraDamageVar(21m),
@@ -59,6 +59,6 @@ public sealed class AllHandsCrashCard : STS2_MioNutsModCard
     protected override void OnUpgrade()
     {
         DynamicVars.CalculationBase.UpgradeValueBy(5m);
-        DynamicVars.ExtraDamage.UpgradeValueBy(3m);
+        DynamicVars.ExtraDamage.UpgradeValueBy(5m);
     }
 }

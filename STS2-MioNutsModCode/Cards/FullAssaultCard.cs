@@ -11,7 +11,7 @@ namespace STS2_MioNutsMod.STS2_MioNutsModCode.Cards;
 public sealed class FullAssaultCard : STS2_MioNutsModCard
 {
     public override CardMultiplayerConstraint MultiplayerConstraint => CardMultiplayerConstraint.MultiplayerOnly;
-    public override IEnumerable<CardKeyword> CanonicalKeywords => [CardKeyword.Exhaust];
+    // public override IEnumerable<CardKeyword> CanonicalKeywords => [CardKeyword.Exhaust];
     protected override IEnumerable<IHoverTip> AdditionalHoverTips => [
         HoverTipFactory.FromCard<DieDieDieCard>(IsUpgraded),
     ];

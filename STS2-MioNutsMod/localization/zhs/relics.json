@@ -1,3 +1,8 @@
 {
-  
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.title": "被诅咒的细胞",
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.description": "获得时，将1张[gold]诅咒之刃+[/gold]加入牌组。\n战斗中，若牌组中有[gold]诅咒之刃+[/gold]，每当你受到未被格挡的伤害，你死亡。",
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.flavor": "借来的剑会教你代价。",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.title": "细胞再生",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.description": "战斗中，你失去的生命会被存储。\n回合结束时，存储值减少[blue]30%[/blue]。\n每回合首次打出攻击牌时，回复存储值[blue]50%[/blue]的生命，然后将其减半。",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.flavor": "疼痛只是另一种修复。"
 }

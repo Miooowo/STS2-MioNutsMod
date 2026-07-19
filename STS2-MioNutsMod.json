@@ -3,12 +3,12 @@
   "name": "Mio的神人模组",
   "author": "Mio",
   "description": "Mio的神人模组，由RitsuLib提供支持。\n添加了一些神秘事件与卡牌。\nMio's Nuts Mod, supported by RitsuLib. \nAdds some mysterious events and cards.",
-  "version": "0.0.1.1-beta",
+  "version": "0.0.2-beta",
   "min_game_version": "0.107.0",
   "has_pck": true,
   "has_dll": true,
   "dependencies": [
-    {"id": "STS2-RitsuLib", "min_version": "0.4.59"}
+    {"id": "STS2-RitsuLib", "min_version": "0.4.60"}
   ],
   "affects_gameplay": true
 }

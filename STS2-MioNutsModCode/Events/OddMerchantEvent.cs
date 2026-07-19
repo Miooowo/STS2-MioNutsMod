@@ -2,19 +2,16 @@ using MegaCrit.Sts2.Core.CardSelection;
 using MegaCrit.Sts2.Core.Commands;
 using MegaCrit.Sts2.Core.Entities.Gold;
 using MegaCrit.Sts2.Core.Events;
+using MegaCrit.Sts2.Core.HoverTips;
 using MegaCrit.Sts2.Core.Localization.DynamicVars;
 using MegaCrit.Sts2.Core.Rooms;
 using MegaCrit.Sts2.Core.Runs;
-using STS2RitsuLib.Scaffolding.Content;
-using STS2_MioNutsMod.STS2_MioNutsModCode.Extensions;
 using STS2_MioNutsMod.STS2_MioNutsModCode.Cards;
 
 namespace STS2_MioNutsMod.STS2_MioNutsModCode.Events;
 
-public sealed class OddMerchantEvent : ModEventTemplate
+public sealed class OddMerchantEvent : STS2_MioNutsModEvent
 {
-    public override string? CustomInitialPortraitPath => "odd_merchant_event.png".EventImagePath();
-
     public override bool IsAllowed(IRunState runState)
     {
         if (runState?.MapPointHistory is null)
@@ -28,8 +25,8 @@ public sealed class OddMerchantEvent : ModEventTemplate
 
     protected override IReadOnlyList<EventOption> GenerateInitialOptions() =>
     [
-        new EventOption(this, SellCards, InitialOptionKey("SELL")),
-        new EventOption(this, TakeLoan, InitialOptionKey("LOAN"))
+        new EventOption(this, SellCards, InitialOptionKey("SELL"), Array.Empty<IHoverTip>()),
+        new EventOption(this, TakeLoan, InitialOptionKey("LOAN"), HoverTipFactory.FromCardWithCardHoverTips<LoanCurseCard>(false))
     ];
 
     private async Task SellCards()

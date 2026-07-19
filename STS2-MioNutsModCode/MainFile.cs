@@ -32,6 +32,9 @@ public partial class MainFile : Node
         RitsuLibFramework.CreateContentPack(ModId)
             .SharedEvent<OddMerchantEvent>()
             .SharedEvent<IronAndBeastEvent>()
+            .SharedEvent<RoseAndScarecrowEvent>()
+            .SharedEvent<StrangeMysteriousManEvent>()
+            .SharedEvent<CursedCellEvent>()
             .Apply();
     }
 }

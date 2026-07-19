@@ -1,3 +1,8 @@
 {
-  
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.title": "Cursed Cell",
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.description": "On pickup, add [gold]Cursed Blade+[/gold] to your deck.\nIn combat, while [gold]Cursed Blade+[/gold] is in your deck, taking unblocked damage kills you.",
+  "STS2_MIO_NUTS_MOD_RELIC_CURSED_CELL_RELIC.flavor": "A borrowed sword always demands payment.",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.title": "Cell Regeneration",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.description": "In combat, HP you lose is stored.\nAt end of turn, stored HP is reduced by [blue]30%[/blue].\nThe first Attack you play each turn heals [blue]50%[/blue] of stored HP, then halves it.",
+  "STS2_MIO_NUTS_MOD_RELIC_CELL_REGENERATION_RELIC.flavor": "Pain is merely another path to repair."
 }

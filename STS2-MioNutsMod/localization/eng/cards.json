@@ -2,9 +2,9 @@
   "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.title": "Loan Curse",
   "STS2_MIO_NUTS_MOD_CARD_LOAN_CURSE_CARD.description": "When drawn, gain [gold]50[/gold] gold. \nAt the end of your turn, if this card is in your hand, lose [gold]20[/gold] gold.",
   "STS2_MIO_NUTS_MOD_CARD_MOONLIT_GAZE_CARD.title": "Moonlit Gaze",
-  "STS2_MIO_NUTS_MOD_CARD_MOONLIT_GAZE_CARD.description": "Retain. \nGain 1 [gold]Moonlit Transfer[/gold].",
+  "STS2_MIO_NUTS_MOD_CARD_MOONLIT_GAZE_CARD.description": "At the end of your turn, transfer one of your debuffs to all enemies.",
   "STS2_MIO_NUTS_MOD_CARD_NONEXISTENCE_CARD.title": "Nonexistence",
-  "STS2_MIO_NUTS_MOD_CARD_NONEXISTENCE_CARD.description": "Ethereal. \nGain 1 [gold]Nonexistence Aura[/gold].",
+  "STS2_MIO_NUTS_MOD_CARD_NONEXISTENCE_CARD.description": "Your ability card cost is reduced by [blue]1[/blue]. \nWhen you play an ability card, gain [blue]8[/blue] block. \nYour positive effects are doubled.",
   "STS2_MIO_NUTS_MOD_CARD_DEATH_HARVEST_CARD.title": "Reaper",
   "STS2_MIO_NUTS_MOD_CARD_DEATH_HARVEST_CARD.description": "Deal {Damage:diff()} damage to all enemies.\nHeal HP equal to unblocked damage",
   "STS2_MIO_NUTS_MOD_CARD_DIE_DIE_DIE_CARD.title": "Die Die Die",
@@ -16,12 +16,14 @@
   "STS2_MIO_NUTS_MOD_CARD_ORB_FOR_ALL_CARD.title": "Dribbling Time",
   "STS2_MIO_NUTS_MOD_CARD_ORB_FOR_ALL_CARD.description": "When you [gold]channel[/gold] an orb, other players will also [gold]channel[/gold] the same orb.",
   "STS2_MIO_NUTS_MOD_CARD_NO_TURNING_CARD.title": "No Turning",
-  "STS2_MIO_NUTS_MOD_CARD_NO_TURNING_CARD.description": "End one player's turn. \nThat player gains 2 [gold]Block[/gold] per card in hand. \nNext turn, gain energy equal to their remaining hand size.",
+  "STS2_MIO_NUTS_MOD_CARD_NO_TURNING_CARD.description": "End one player's turn. \nThat player gains 3 [gold]Block[/gold] per card in hand. \nNext turn, gain energy equal to their remaining hand size.",
   "STS2_MIO_NUTS_MOD_CARD_ALL_HANDS_CRASH_CARD.title": "Plane Crash",
   "STS2_MIO_NUTS_MOD_CARD_ALL_HANDS_CRASH_CARD.description": "Deal {CalculatedDamage:diff()} damage to all enemies. \nFor each other player, increase damage by {ExtraDamage:diff()}. \nFill all players' hands with [gold]Debris[/gold].",
   "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.title": "Tomb Raider Gang",
   "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.description": "All players choose 1 card from their Exhaust pile and put it into their hand.",
   "STS2_MIO_NUTS_MOD_CARD_TOMB_RAIDER_GANG_CARD.selectionPrompt": "Choose 1 card from Exhaust",
   "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.title": "Teach And Learn",
-  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.description": "Whenever you play a [gold]Power card[/gold], each other player gains the same power."
+  "STS2_MIO_NUTS_MOD_CARD_TEACH_AND_LEARN_CARD.description": "Whenever you play a [gold]Power card[/gold], each other player gains the same power.",
+  "STS2_MIO_NUTS_MOD_CARD_CURSED_BLADE_PLUS_CARD.title": "Cursed Blade+",
+  "STS2_MIO_NUTS_MOD_CARD_CURSED_BLADE_PLUS_CARD.description": "Deal {CalculatedDamage:diff()} damage.\nFor each other [gold]Curse[/gold] in your deck, increase damage by {ExtraDamage:diff()}.\nThe first time this is played each combat, stun the target."
 }
