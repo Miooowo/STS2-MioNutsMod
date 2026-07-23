@@ -8,6 +8,7 @@ public abstract class STS2_MioNutsModEvent : ModEventTemplate
 {
     private static readonly Regex PascalBoundary = new("(?<!^)([A-Z])", RegexOptions.Compiled);
     private static readonly string[] PortraitExtensions = [".png", ".jpg", ".webp"];
+    private static string JoinRes(params string[] parts) => Path.Join(parts).Replace("\\", "/");
 
     public override string? CustomInitialPortraitPath => ResolvePortraitPath();
 
@@ -20,12 +21,12 @@ public abstract class STS2_MioNutsModEvent : ModEventTemplate
         string snakeBase = PascalBoundary.Replace(baseName, "_$1").ToLowerInvariant() + "_event";
         foreach (var ext in PortraitExtensions)
         {
-            string path = Path.Join(MainFile.ResPath, "images", "events", snakeBase + ext);
+            string path = JoinRes(MainFile.ResPath, "images", "events", snakeBase + ext);
             if (ResourceLoader.Exists(path))
                 return path;
         }
 
         MainFile.Logger.Info("Could not find event image path for event: " + GetType().Name);
-        return Path.Join(MainFile.ResPath, "mod_image.png");
+        return JoinRes(MainFile.ResPath, "images", "events", "events.png");
     }
 }

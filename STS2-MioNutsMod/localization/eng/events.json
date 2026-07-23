@@ -88,5 +88,14 @@
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.INITIAL.options.LEARN_ARCANE.title": "Learn Arcana",
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.INITIAL.options.LEARN_ARCANE.description": "Obtain the [gold]Cell Regeneration[/gold] relic.",
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.BORROW_SWORD_DONE.description": "You grip that [red][sine]cold blade[/sine][/red], [purple][sine]and the curse burrows into your flesh like a living thing.[/sine][/purple]",
-  "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.LEARN_ARCANE_DONE.description": "You memorize those [purple][jitter]twisted formulas[/jitter][/purple], [orange][sine]and your wounds begin to stitch themselves through pain.[/sine][/orange]"
+  "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.LEARN_ARCANE_DONE.description": "You memorize those [purple][jitter]twisted formulas[/jitter][/purple], [orange][sine]and your wounds begin to stitch themselves through pain.[/sine][/orange]",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.title": "Strange Space",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.description": "Your team stumbles into a strange space. Odd floating windows drift around you, and you can see each other reflected inside.\n\nStrange... there seems to be a potion in there?",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.REACH_OUT.title": "Reach Out",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.REACH_OUT.description": "Obtain a [gold]Stereotype[/gold] potion.",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.title": "Watch Image",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.description": "Choose [blue]1[/blue] from [blue]3[/blue] random [gold]multiplayer cards[/gold].",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.selectionScreenPrompt": "Choose a multiplayer card",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.REACH_OUT_DONE.description": "You reach in and take the potion. The image inside the bottle seems to be staring back.",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.WATCH_IMAGE_DONE.description": "You focus on the drifting windows and seize one fragment of the image."
 }

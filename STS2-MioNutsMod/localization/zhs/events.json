@@ -88,5 +88,14 @@
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.INITIAL.options.LEARN_ARCANE.title": "学习奇术",
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.INITIAL.options.LEARN_ARCANE.description": "获得[gold]细胞再生[/gold]遗物。",
   "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.BORROW_SWORD_DONE.description": "你握住那把[red][sine]泛着寒意的剑，[/sine][/red][purple][sine]诅咒像活物般钻进你的血肉。[/sine][/purple]",
-  "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.LEARN_ARCANE_DONE.description": "你记下了那些[purple][jitter]扭曲的奇术[/jitter][/purple]，[orange][sine]伤口开始在痛楚中自我缝合。[/sine][/orange]"
+  "STS2_MIO_NUTS_MOD_EVENT_CURSED_CELL_EVENT.pages.LEARN_ARCANE_DONE.description": "你记下了那些[purple][jitter]扭曲的奇术[/jitter][/purple]，[orange][sine]伤口开始在痛楚中自我缝合。[/sine][/orange]",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.title": "奇怪的空间",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.description": "你们的小队误入了一个奇怪的空间，这里漂浮着一堆奇怪的窗口，你们能从中望见彼此的身影。\n\n奇怪，里面好像有一瓶药水...？",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.REACH_OUT.title": "伸手去取",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.REACH_OUT.description": "获得一瓶[gold]刻板印象[/gold]。",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.title": "观看影像",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.description": "从[blue]3[/blue]张随机[gold]多人游戏牌[/gold]中选择[blue]1[/blue]张加入你的牌组。",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.INITIAL.options.WATCH_IMAGE.selectionScreenPrompt": "选择1张多人游戏卡牌",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.REACH_OUT_DONE.description": "你伸手取下那瓶药水，瓶中的影像像是正在看着你。",
+  "STS2_MIO_NUTS_MOD_EVENT_STRANGE_SPACE_EVENT.pages.WATCH_IMAGE_DONE.description": "你凝视着窗口中的碎片，最终抓住了其中一段影像。"
 }

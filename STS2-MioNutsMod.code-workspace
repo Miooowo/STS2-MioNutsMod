@@ -8,6 +8,12 @@
 		},
 		{
 			"path": "C:/Users/OEM/Desktop/Slay the Spire 2"
+		},
+		{
+			"path": "../STS2-WorkshopUploaderMod"
+		},
+		{
+			"path": "../../Steam/steamapps/common/Slay the Spire 2/mods/STS2-WorkshopUploader"
 		}
 	],
 	"settings": {}

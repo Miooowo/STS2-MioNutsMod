@@ -35,6 +35,7 @@ public partial class MainFile : Node
             .SharedEvent<RoseAndScarecrowEvent>()
             .SharedEvent<StrangeMysteriousManEvent>()
             .SharedEvent<CursedCellEvent>()
+            .SharedEvent<StrangeSpaceEvent>()
             .Apply();
     }
 }
